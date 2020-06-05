@@ -11,7 +11,15 @@
 </p>
 
 ## How it Works
-You can fork this repository and set it as a template. This will allow it to be used as a template to initialise new repositories.
+You can fork this repository and set it as a template.
+This will allow it to be used as a template to initialise new repositories.
+Once the repository has been initialised with the base files, edit as required.
+
+</br>
+<p align="left">
+	<img alt="Instructions" title="Change in Settings" src="./assets/instructions.png" width="720">
+</p>
+
 
 ## Authors
 **[Xavier Thomas](https://github.com/xavier-thomas)**
